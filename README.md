@@ -15,7 +15,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -31,17 +30,17 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 Hello_Microverse <a name="about-project"></a>
 
-> Using linters.
 
-**[Hello_Microverse]** is a...
+
+**Hello_Microverse** is  my first project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>HTML and CSS</summary>
@@ -55,11 +54,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[Header]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+
+-  **[Header]**
+- **[Modified_Header]**
+- **[Linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +68,9 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 cd C:\Users\DELL\Desktop\Git
+
   git clone https://github.com/MayPyone/Hello_Microverse.git
+  
   cd Hello_Microverse
 
 ### Prerequisites
@@ -83,7 +84,9 @@ Any popular web browser app, like Chrome, Firefox,etc.
 Clone this repository to your desired folder:
 
   cd C:\Users\DELL\Desktop\Git
+  
   git clone https://github.com/MayPyone/Hello_Microverse.git
+  
   cd Hello_Microverse
 
 
@@ -98,6 +101,9 @@ Visual Studio Code and Git
 
 To run the project, execute the following command:
 
+Right-click on the HTML file
+and choose the browser you wish. 
+
 
 
 ### Run tests
@@ -105,6 +111,7 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 Right-click on the HTML file
+
 Choose the browser you wish. 
 
 
@@ -115,7 +122,6 @@ Choose the browser you wish.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -130,7 +136,7 @@ Choose the browser you wish.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[Logo]**
 - [ ] **[Hompage]**
@@ -152,9 +158,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project, check my portfolio
+
+If you like this project, check my portfolio.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,7 +176,6 @@ I would like to thank NoerGitKat(https://github.com/microverseinc/linters-config
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
