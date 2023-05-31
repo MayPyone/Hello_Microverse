@@ -31,11 +31,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 Hello_Microverse <a name="about-project"></a>
 
-> Using linters.
 
-**[Hello_Microverse]** is a my first project.
+
+**Hello_Microverse** is  my first project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -133,7 +133,7 @@ Choose the browser you wish.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[Logo]**
 - [ ] **[Hompage]**
