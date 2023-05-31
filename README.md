@@ -35,13 +35,13 @@
 
 > Using linters.
 
-**[Hello_Microverse]** is a...
+**[Hello_Microverse]** is a my first project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>HTML and CSS</summary>
@@ -55,11 +55,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[Header]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+
+-  **[Header]**
+- **[Modified_Header]**
+- **[Linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +115,6 @@ Choose the browser you wish.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
