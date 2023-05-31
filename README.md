@@ -101,6 +101,9 @@ Visual Studio Code and Git
 
 To run the project, execute the following command:
 
+Right-click on the HTML file
+and choose the browser you wish. 
+
 
 
 ### Run tests
