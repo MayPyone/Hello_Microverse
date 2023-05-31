@@ -111,6 +111,7 @@ and choose the browser you wish.
 To run tests, run the following command:
 
 Right-click on the HTML file
+
 Choose the browser you wish. 
 
 
