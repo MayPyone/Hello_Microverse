@@ -69,7 +69,9 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 cd C:\Users\DELL\Desktop\Git
+
   git clone https://github.com/MayPyone/Hello_Microverse.git
+  
   cd Hello_Microverse
 
 ### Prerequisites
@@ -83,7 +85,9 @@ Any popular web browser app, like Chrome, Firefox,etc.
 Clone this repository to your desired folder:
 
   cd C:\Users\DELL\Desktop\Git
+  
   git clone https://github.com/MayPyone/Hello_Microverse.git
+  
   cd Hello_Microverse
 
 
