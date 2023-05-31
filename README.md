@@ -156,7 +156,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-If you like this project, check my portfolio
+If you like this project, check my portfolio.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +172,6 @@ I would like to thank NoerGitKat(https://github.com/microverseinc/linters-config
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
