@@ -170,7 +170,7 @@ If you like this project, check my portfolio.
 
 
 
-I would like to thank NoerGitKat(https://github.com/microverseinc/linters-config/commits?author=NoerGitKat) who supported the techniques using Linters.
+I would like to thank NoerGitKat(https://github.com/microverseinc/linters-config/commits?author=NoerGitKat) who supported the techniques using Linters and Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
